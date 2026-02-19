@@ -20,7 +20,7 @@ return resultObject;
 let example1 = [4, 8, 12, 5, 20];
 let example2 = ["a", 2, "Hello", 6, [4, 5], "bye", {name: "Alice", score: 98}];
 
-//Call the funtion and store
+//Call the function and store
 let result1 = analyzeArray(example1);
 let result2 = analyzeArray(example2);
 
